@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\hanoi\\hanoi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0915DDD5-DAFE-4CDB-9BDB-444C95498DEF}|hanoi.vcxproj|E:\\hanoi\\hanoi\\hanoi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0915DDD5-DAFE-4CDB-9BDB-444C95498DEF}|hanoi.vcxproj|solutionrelative:hanoi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 250,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hanoi.cpp",
+              "DocumentMoniker": "E:\\hanoi\\hanoi\\hanoi.cpp",
+              "RelativeDocumentMoniker": "hanoi.cpp",
+              "ToolTip": "E:\\hanoi\\hanoi\\hanoi.cpp*",
+              "RelativeToolTip": "hanoi.cpp*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-03T19:35:24.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
